@@ -96,11 +96,11 @@ Yatagarasu 3D Avatarの基本仕様については以下の通りとなります
     - No UDIM
     - No OverlapUVs
 - テクスチャ ( 5 textures )
-    - T_Yatagarasu_Body_BC
-    - T_Yatagarasu_Costume_BC
-    - T_Yatagarasu_Face_BC
-    - T_Yatagarasu_Hair_BC
-    - T_Yatagarasu_Shoes_BC
+    - T_Yatagarasu_Body_BC ( 2048x2048 )
+    - T_Yatagarasu_Costume_BC ( 2048x2048 )
+    - T_Yatagarasu_Face_BC ( 2048x2048 )
+    - T_Yatagarasu_Hair_BC ( 2048x2048 )
+    - T_Yatagarasu_Shoes_BC ( 1024x1024 )
 - マテリアル ( 5 materials )
     - M_Yatagarasu_Body
     - M_Yatagarasu_Costume

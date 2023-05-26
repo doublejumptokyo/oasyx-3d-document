@@ -68,7 +68,7 @@ OASYX 3D Avatarのダウンロードは、公式サイトのダウンロード�
 
 ## Yatagarasu 3D Avatar
 
-※【Oasyx-Yatagarasuのサムネイル画像】
+<img src="assets/oasyx-yatagarasu.png">
 
 OASYX 3D Avatarのアセットは現在「Yatagarasu」のみ公開されています。
 
@@ -79,40 +79,58 @@ https://x.oasys.games/
 
 Yatagarasu 3D Avatarの基本仕様については以下の通りとなります。
 
-- メッシュ
-    - XX
+- メッシュ ( 9 meshes )
+    - Yatagarasu_Eye
+    - Yatagarasu_Face
+    - Yatagarasu_Head
+    - Yatagarasu_Body ( BodySuites )
+    - Yatagarasu_Body_cull ( Kimono )
+    - Yatagarasu_Costume ( Kimono )
+    - Yatagarasu_Hair
+    - Yatagarasu_HairBand
+    - Yatagarasu_Shoes
 - ポリゴン数
-    - XX
+    - 36266 Tris ( kimono )
+    - 31622 Tris ( BodySuites )
 - UV
-    - XX
-- テクスチャ
-    - XX
-    - XX
-- マテリアル調整
-    - XX
-    - XX
+    - No UDIM
+    - No OverlapUVs
+- テクスチャ ( 5 textures )
+    - T_Yatagarasu_Body_BC
+    - T_Yatagarasu_Costume_BC
+    - T_Yatagarasu_Face_BC
+    - T_Yatagarasu_Hair_BC
+    - T_Yatagarasu_Shoes_BC
+- マテリアル ( 5 materials )
+    - M_Yatagarasu_Body
+    - M_Yatagarasu_Costume
+    - M_Yatagarasu_Face
+    - M_Yatagarasu_Hair
+    - M_Yatagarasu_Shoes
 - フェイシャル
-    - XX
+    - Smile
+    - Blinc
+    - Lipsync
 - ボーン
-    - XX
-    - XX
+    - 82 Joints
+    - HumanIK Standard
 - スキニング
-    - XX
-    - XX
+    - Skinning method : Classic linear
+    - 4 influences
 - リギング
-    - XX
+    - HumanIK Standard
 - VRM仕様
-    - XX
-    - XX
-    - XX
+    - UnityVersion : 2021.3.20f1 ( LTS )
+    - VRMVersion : UniVRM 0.109.0
+    - Shader : MToon
 
 ## 出力ファイル
 
 - VRMファイル
 - fbxファイル
 - UnityPackage
-- Maya
-- Blender
+- Maya ( ma )
+- Blender ( BinaryFBX )
 
 ## 動作確認済みプラットフォーム
 

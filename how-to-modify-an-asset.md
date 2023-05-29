@@ -224,7 +224,7 @@ For detailed instructions, please also refer to the "[Blend Shape Settings](http
 MToon is a standard VRM compliant shader.
 It can output the contents of materials adjusted in Unity almost as they are for the corresponding platform.
 
-<img src="assets/image10.png" width="500">
+<img src="assets/image12.png" width="500">
 
 **How to use MToon**
 

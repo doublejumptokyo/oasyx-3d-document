@@ -72,7 +72,7 @@ Please download OASYX 3D Avatar from the official website.
 
 The basic specifications for the Yatagarasu 3D Avatar are as follows:
 
-- Mesh(9meshes ):
+- Mesh( 9meshes ):
     - Yatagarasu_Eye
     - Yatagarasu_Face
     - Yatagarasu_Head
@@ -91,14 +91,14 @@ The basic specifications for the Yatagarasu 3D Avatar are as follows:
     - No UDIM
     - No OverlapUVs
 
-- Textures(5textures ):
+- Textures( 5textures ):
     - T_Yatagarasu_Body_BC ( 2048x2048 )
     - T_Yatagarasu_Costume_BC ( 2048x2048 )
     - T_Yatagarasu_Face_BC ( 2048x2048 )
     - T_Yatagarasu_Hair_BC ( 2048x2048 )
     - T_Yatagarasu_Shoes_BC ( 1024x1024 )
 
-- Material Adjustments (5materials):
+- Material Adjustments ( 5materials ):
     - M_Yatagarasu_Body
     - M_Yatagarasu_Costume
     - M_Yatagarasu_Face

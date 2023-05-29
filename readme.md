@@ -44,11 +44,11 @@ OASYX’s NFT design merges Cyberpunk with Japanese aesthetics to create a one-o
 
 OASYX’s NFT design not only showcases Cyberpunk and Japanese aesthetics, but it also reflects the spirit of Japan. It portrays Japanese spirituality, such as Bushido and compassion, commonly shared by individuals of all races and genders.
 
-The aforementioned parts of the project OASYX add up to representing the gaming blockchain Oasys and are intended to create a distinct brand for gamers. This set of NFTs was made in partnership with famed game producer **[Yu Suzuki](https://segaretro.org/Yu_Suzuki)**, contributing to the project’s authenticity and excitement.
+The aforementioned parts of the project OASYX add up to representing the gaming blockchain Oasys and are intended to create a distinct brand for gamers. This set of NFTs was made in partnership with famed game producer Yu Suzuki, contributing to the project’s authenticity and excitement.
 
-Yu Suzuki is appointed as a supervisor in the series 1. As a former game producer at SEGA, he has given the [world numerous masterpieces](https://gamerant.com/best-yu-suzuki-games-sega/) such as **Virtual Fighter** and the **Shenmoo series**, reflecting his experience on the OASYX’s view of the world.
+Yu Suzuki is appointed as a supervisor in the series 1. As a former game producer at SEGA, he has given the world numerous masterpieces such as Virtual Fighter and the Shenmoo series, reflecting his experience on the OASYX’s view of the world.
 
-Alongside with Yu, [GODTAIL](https://www.godtail.jp/) who is a multi-talented Japanese digital artist behind various anime-themed artworks and designs. The recently unveiled [AU](https://medium.com/@oasyx/oasyx-mayu-and-au-dca5c18512b), OASYX’s 10 PFP characters, are generated based on his artwork.
+Alongside with Yu, GODTAIL who is a multi-talented Japanese digital artist behind various anime-themed artworks and designs. The recently unveiled AU, OASYX’s 10 PFP characters, are generated based on his artwork.
 
 ## How to download assets
 

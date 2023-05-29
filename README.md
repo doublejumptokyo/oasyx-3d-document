@@ -1,85 +1,78 @@
-readme
+# Welcome to OASYX 3D Avatar
 
-# 目次
+Welcome to the OASYX 3D Avatar repository!  
+This section provides not only the basic specifications, features, and usage of OASYX 3D Avatar, but also various information for creators on how to modify OASYX 3D Avatar.
+This document is mainly intended for companies and professional creators who want to utilize OASYX 3D Avatar.  
+By opening up the OASYX 3D Avatar assets and documentation, we hope that not only the users themselves will enjoy using OASYX 3D Avatar, but also the entire OASYX ecosystem will grow as companies and professional individuals around the world contribute to modifying assets and fixing bugs. We hope that the OASYX ecosystem as a whole will continue to grow.
+
+[日本語版READMEはこちら](readme-ja.md)
+
+# Table of Contents
+
 1. [Overview](#Overview)
-    1. [Welcome to OASYX 3D Avatar](#Welcome-to-OASYX-3D-Avatar)
-    1. [OASYXとは](#OASYXとは)
-    1. [アセットのダウンロード方法](#アセットのダウンロード方法)
-
-1. [アセットの基本情報](#アセットの基本情報)
-    1. [このセクションについて](#このセクションについて)
+    1. [What is OASYX?](#What-is-OASYX)
+    2. [How to download assets](#How-to-download-assets)
+2. [Basic information about assets](#Basic-information-about-assets)
     1. [Yatagarasu 3D Avatar](#Yatagarasu-3D-Avatar)
-    1. [基本仕様](#基本仕様)
-    1. [出力ファイル](#出力ファイル)
-    1. [動作確認済みプラットフォーム](#動作確認済みプラットフォーム)
-    1. [プラットフォームの注意点](#プラットフォームの注意点)
-
-1. [アセットの改変方法](アセットの改変方法.md)
-    1. [このセクションについて](アセットの改変方法.md#このセクションについて)
-    1. [改変仕様の制限範囲](アセットの改変方法.md#改変仕様の制限範囲)
-    1. [制作について](アセットの改変方法.md#制作について)
-        - 制作に必要なツールとソフトウェア
-        - 制作の基本的な手順（セットアップ）
-        - 制作の注意点
-    1. [アバターの着せ替え方法と手順](アセットの改変方法.md#アバターの着せ替え方法と手順)
-        - BlendShapeとリップシンクの説明と使用方法
-        - MToonの説明と使用方法
-
-1. [その他](その他.md)
-    1. [FAQ](その他.md#FAQ)
-    1. [利用規約](その他.md#利用規約)
-    1. [更新履歴](その他.md#更新履歴)
+    2. [Basic specifications](#Basic-specifications)
+    3. [Output files](#Output-files)
+    4. [Tested platforms](#Tested-platforms)
+    5. [Notes to the platform](#Notes-to-the-platform)
+3. [How to modify an asset](How-to-modify-an-asset.md)
+    1. [Limitations of Modification](How-to-modify-an-asset.md#Limitations-of-Modification)
+    2. [About Production](How-to-modify-an-asset.md#About-Production)
+        - [Tools and Software Required for Production](How-to-modify-an-asset.md#About-Production)
+        - [Setup - Basic Production Procedures](How-to-modify-an-asset.md#Setup---Basic-Production-Procedures)
+        - [Points to note about production](How-to-modify-an-asset.md#Points-to-note-about-production)
+    3. [How to change avatars and the steps involved](How-to-modify-an-asset.md#How-to-change-avatars-and-the-steps-involved)
+        - [BlendShape and Lip Sync Instructions and Usage](How-to-modify-an-asset.md#BlendShape-and-Lip-Sync-Instructions-and-Usage)
+        - [MToon Description and Usage](How-to-modify-an-asset.md#MToon-Description-and-Usage)
+4. [Others](Others.md)
+    1. [FAQ](Others.md#FAQ)
+    2. [Terms of service](Others.md#Terms-of-service)
+    3. [Update history](Others.md#Update-history)
 
 # Overview
 
-## Welcome to OASYX 3D Avatar
-
-OASYX 3D Avatarのドキュメントへようこそ！  
-OASYX 3D Avatarの基本的な仕様や特徴、利用方法だけでなく、クリエイター向けにOASYX 3D Avatarの改変方法についてなど、様々な情報を提供します。  
-本ドキュメントは、主にOASYX 3D Avatarを活用したい企業やプロフェッショナルなクリエイターが対象です。  
-OASYX 3D Avatarのアセットやドキュメントをオープンにすることで、ユーザーがOASYX 3D Avatarを楽しんでくれるだけでなく、世界中の企業やプロフェッショナルな個人がアセットの改変やバグ修正に貢献することでOASYXのエコシステム全体が発展していくことを望んでいます。
-
-## OASYXとは
+## What is OASYX?
 
 <img src="assets/image0.png">
 
-OASYXは、ゲーミングブロックチェーン「Oasys」を象徴する、ゲーマー向けのNFTブランドの構築を目指すNFTプロジェクトです。
+OASYX is an NFT project aimed at creating an NFT brand for gamers, symbolizing the Oasys gaming blockchain.
 
-OASYXのNFTデザインは、サイバーパンクと日本の美学を融合させ、未来の世界を独自の表現として創り出しています。このNFTは、ネオンライト、ホログラフィックディスプレイ、機械などの先進技術を、洗練された日本のスタイルに取り入れています。また、侍などの伝統的な日本のシンボルやイメージもサイバーパンクの美学によって再解釈されています。
+OASYX’s NFT design merges Cyberpunk with Japanese aesthetics to create a one-of-a-kind portrayal of a futuristic world. The NFT incorporates advanced technology such as neon lights, holographic displays, and machines into a sleek Japanese style. Traditional Japanese symbols and images, such as samurai, are also featured and reinterpreted in a cyberpunk aesthetic.
 
-OASYXのNFTデザインは、単にサイバーパンクと日本の美学を披露するだけでなく、日本の精神性を反映しています。武士道や思いやりなどの日本の精神は、人種や性別に関係なく、共有されています。
+OASYX’s NFT design not only showcases Cyberpunk and Japanese aesthetics, but it also reflects the spirit of Japan. It portrays Japanese spirituality, such as Bushido and compassion, commonly shared by individuals of all races and genders.
 
-OASYXプロジェクトの上記の部分は、ゲームブロックチェーンOasysを代表し、ゲーマーに対して独自のブランドを作り出すことを意図しています。このNFTのセットは、名だたるゲームプロデューサーである[鈴木裕氏](https://segaretro.org/Yu_Suzuki)とのパートナーシップによって作成され、プロジェクトの本物さと興奮を高めています。
+The aforementioned parts of the project OASYX add up to representing the gaming blockchain Oasys and are intended to create a distinct brand for gamers. This set of NFTs was made in partnership with famed game producer **[Yu Suzuki](https://segaretro.org/Yu_Suzuki)**, contributing to the project’s authenticity and excitement.
 
-鈴木裕氏はシリーズ1の監督に任命されています。彼はかつてSEGAでゲームプロデューサーとして活躍し、バーチャファイターやシェンムーなど<a target="_blank" href="https://gamerant.com/best-yu-suzuki-games-sega/">数々の名作</a>を世に送り出しました。それらの作品は、OASYXの世界観に彼の経験が反映されています。
+Yu Suzuki is appointed as a supervisor in the series 1. As a former game producer at SEGA, he has given the [world numerous masterpieces](https://gamerant.com/best-yu-suzuki-games-sega/) such as **Virtual Fighter** and the **Shenmoo series**, reflecting his experience on the OASYX’s view of the world.
 
-また、鈴木裕氏と並んで、多才な日本のデジタルアーティストである[GODTAIL](https://www.godtail.jp/){:target="_blank"}も参加しています。彼はさまざまなアニメテーマのアートワークやデザインを手掛けており、最近発表された[AU](https://medium.com/@oasyx/oasyx-mayu-and-au-dca5c18512b)（OASYXの10人のPFPキャラクター）は彼の作品を基に生成されています。
+Alongside with Yu, [GODTAIL](https://www.godtail.jp/) who is a multi-talented Japanese digital artist behind various anime-themed artworks and designs. The recently unveiled [AU](https://medium.com/@oasyx/oasyx-mayu-and-au-dca5c18512b), OASYX’s 10 PFP characters, are generated based on his artwork.
 
-## アセットのダウンロード方法
+## How to download assets
 
-OASYX 3D Avatarのダウンロードは、公式サイトのダウンロードページより行ってください▼  
-[https://x.oasys.games/](https://x.oasys.games/)
+Please download OASYX 3D Avatar from the official website.  
+OASYX official website: https://x.oasys.games/
 
-# アセットの基本情報
+# Basic information about assets
 
-## このセクションについて
-
-こちらのセクションは、ユーザー向けに公開したOASYX-Yatagarasu 3D Avatarの基本仕様や活用プラットフォーム等、基本的な情報について記載しています。
+This section contains basic information on OASYX-Yatagarasu 3D Avatar released for users, including basic specifications and platforms for use.
 
 ## Yatagarasu 3D Avatar
 
-<img src="assets/oasyx-yatagarasu.png">
+<img src="assets/oasyx-yatagarasu.png" width="800">
 
-OASYX 3D Avatarのアセットは現在「Yatagarasu」のみ公開されています。
+Currently, only the "Yatagarasu" asset is available for OASYX 3D Avatar.
 
-ダウンロードは、公式サイトより行ってください▼  
-https://x.oasys.games/
+Please download OASYX 3D Avatar from the official website.  
+**OASYX official website**: [https://x.oasys.games/](https://x.oasys.games/)
 
-## 基本仕様
+## Basic specifications
 
-Yatagarasu 3D Avatarの基本仕様については以下の通りとなります。
+The basic specifications for the Yatagarasu 3D Avatar are as follows:
 
-- メッシュ ( 9 meshes )
+- Mesh(9meshes ):
     - Yatagarasu_Eye
     - Yatagarasu_Face
     - Yatagarasu_Head
@@ -89,42 +82,51 @@ Yatagarasu 3D Avatarの基本仕様については以下の通りとなります
     - Yatagarasu_Hair
     - Yatagarasu_HairBand
     - Yatagarasu_Shoes
-- ポリゴン数
+
+- Polygon Count:
     - 36266 Tris ( kimono )
     - 31622 Tris ( BodySuites )
-- UV
+
+- UV:
     - No UDIM
     - No OverlapUVs
-- テクスチャ ( 5 textures )
+
+- Textures(5textures ):
     - T_Yatagarasu_Body_BC ( 2048x2048 )
     - T_Yatagarasu_Costume_BC ( 2048x2048 )
     - T_Yatagarasu_Face_BC ( 2048x2048 )
     - T_Yatagarasu_Hair_BC ( 2048x2048 )
     - T_Yatagarasu_Shoes_BC ( 1024x1024 )
-- マテリアル ( 5 materials )
+
+- Material Adjustments (5materials):
     - M_Yatagarasu_Body
     - M_Yatagarasu_Costume
     - M_Yatagarasu_Face
     - M_Yatagarasu_Hair
     - M_Yatagarasu_Shoes
-- フェイシャル
+
+- Facial Features:
     - Smile
     - Blinc
     - Lipsync
-- ボーン
+
+- Bones:
     - 82 Joints
     - HumanIK Standard
-- スキニング
+
+- Skinning:
     - Skinning method : Classic linear
     - 4 influences
-- リギング
+
+- Rigging:
     - HumanIK Standard
-- VRM仕様
+
+- VRM Specifications:
     - UnityVersion : 2021.3.20f1 ( LTS )
     - VRMVersion : UniVRM 0.109.0
     - Shader : MToon
 
-## 出力ファイル
+## Output files
 
 - VRMファイル
 - fbxファイル
@@ -132,12 +134,17 @@ Yatagarasu 3D Avatarの基本仕様については以下の通りとなります
 - Maya ( ma )
 - Blender ( BinaryFBX )
 
-## 動作確認済みプラットフォーム
+## Tested platforms
 
 - Cluster
 - VroidHub
 
-## プラットフォームの注意点
+## Notes to the platform
 
-「Cluster」のアバター無制限化等、制限は緩和傾向にあるため配布中のモデルや同等のポリゴン数やテクスチャ解像度のVRMファイルを使用することが可能な場合が多いです。  
-ただし、プラットフォームによっては配布中のモデルが使用できない場合や内部的に自動で軽量化され、そのままの見た目が保証されない可能性があります。
+In many cases, it is possible to use models currently being distributed or VRM files with equivalent polygon counts and texture resolutions, as restrictions are being eased, such as the unlimited avatars in the Cluster.
+
+However, depending on the platform, there is a possibility that distributed models cannot be used, or that they are automatically lightened internally and their appearance may not be guaranteed.
+
+## Next page
+
+[How to modify an asset](How-to-modify-an-asset.md)

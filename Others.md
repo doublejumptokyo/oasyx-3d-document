@@ -11,7 +11,7 @@
     - The confirmed platforms are "Cluster" and "VroidHub".
     
 - Can I modify OASYX 3D Avatar?
-    - Modification is possible. Please refer to [this page](How-to-modify-an-asset.md) for details.
+    - Modification is possible. Please refer to [this page](how-to-modify-an-asset.md) for details.
     
 - How much does it cost to use an avatar?
     - There is no charge for the use of avatars.

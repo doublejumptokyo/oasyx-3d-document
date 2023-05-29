@@ -233,4 +233,4 @@ If it has been imported, search for "MToon" in the shader selection tab of the M
 For specific instructions on how to set up "MToon," please also refer to the "[MToon](https://vrm.dev/en/univrm/shaders/shader_mtoon)" section of the official VRM website.
 
 ## Next Page
-[Others](Others.md)
+[Others](others.md)

@@ -74,7 +74,7 @@ You may make changes without Maya operation if the following conditions are met.
 
 Set the item as a child of the head joint in Unity and adjust the position.
 
-※Unity上で眼鏡かけた画像を挿入予定
+<img src="assets/image10.png" width="500">
 
 **Step.2 Create a texture in Photoshop**
 
@@ -170,7 +170,7 @@ Unzip the file in the distribution and load the Maya file.
 To add parts to an avatar that is being distributed, create the mesh (model) you wish to add.
 If you want to add a model that already exists, go to "File" and select "Import...", then select the model you want to add and add it.
 
-※追加のモデルを読み込んだ画像を挿入予定
+<img src="assets/image11.png" width="500">
 
 **Step.3 Make sure the added parts are consistent with the existing parts.**
 

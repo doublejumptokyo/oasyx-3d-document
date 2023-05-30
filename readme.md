@@ -53,7 +53,7 @@ Alongside with Yu, GODTAIL who is a multi-talented Japanese digital artist beh
 ## How to download assets
 
 Please download OASYX 3D Avatar from the official website.  
-OASYX official website: https://x.oasys.games/
+**OASYX official website**: https://x.oasys.games/
 
 # Basic information about assets
 

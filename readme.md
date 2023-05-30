@@ -130,8 +130,8 @@ The basic specifications for the Yatagarasu 3D Avatar are as follows:
 
 ## Output files
 
-- VRMファイル
-- fbxファイル
+- VRM file
+- fbx　file
 - UnityPackage
 - Maya ( ma )
 - Blender ( BinaryFBX )

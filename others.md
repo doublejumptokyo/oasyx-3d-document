@@ -5,7 +5,7 @@
     
 - How can I download an avatar?
     - To download the OASYX 3D Avatar, please visit the official website.  
-    **OASYX official website**:　https://x.oasys.games/3dmodel
+    **OASYX official website**:https://x.oasys.games/3dmodel
     
 - On which platforms can I utilize the software?
     - The confirmed platforms are "Cluster" and "VroidHub".

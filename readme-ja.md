@@ -5,7 +5,7 @@ OASYX 3D Avatarの基本的な仕様や特徴、利用方法だけでなく、�
 本ドキュメントは、主にOASYX 3D Avatarを活用したい企業やプロフェッショナルなクリエイターが対象です。  
 OASYX 3D Avatarのアセットやドキュメントをオープンにすることで、ユーザー自身がOASYX 3D Avatarを楽しんでくれるだけでなく、世界中の企業やプロフェッショナルな個人がアセットの改変やバグ修正に貢献することでOASYXのエコシステム全体が発展していくことを望んでいます。
 
-[README in Englishはこちら](readme.md)
+[README in English is here](readme.md)
 
 # 目次
 

@@ -29,7 +29,7 @@ Please click here for the Terms of Use.
 
 ## ****Update History****
 
-2023-06-01
+2023-05-30
 
-- Release of Oasyx-Yatagarasu (Ver 1.00)
+- Release of OASYX-Yatagarasu (Ver 1.00)
 - Release of OASYX 3D Avatar Repository

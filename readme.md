@@ -1,5 +1,7 @@
 # Welcome to OASYX 3D Avatar
 
+<img src="assets/image13.png">
+
 Welcome to the OASYX 3D Avatar repository!  
 This section provides not only the basic specifications, features, and usage of OASYX 3D Avatar, but also various information for creators on how to modify OASYX 3D Avatar.
 This document is mainly intended for companies and professional creators who want to utilize OASYX 3D Avatar.  

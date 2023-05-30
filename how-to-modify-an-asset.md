@@ -57,7 +57,7 @@ Please ensure that any modifications you make stay within the scope of basic usa
 
 **Step.1　Add models and make adjustments in Maya**
 
-When you want to make changes or add parts to a model that is being distributed, you basically use Maya to make the changes.
+When you want to make changes or add parts to a model that is being distributed, you basically use Maya to make the changes*    
 *Specific examples of Maya operations are described in "[How to change avatars and the steps involved](#how-to-change-avatars-and-the-steps-involved)".
 
 You may make changes without Maya operation if the following conditions are met.

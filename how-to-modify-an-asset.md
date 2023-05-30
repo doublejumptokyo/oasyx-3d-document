@@ -64,7 +64,7 @@ You may make changes without Maya operation if the following conditions are met.
 
 1. Cases where you want to change the color of a specific part
 
-→ Perform the operation on the PSD file, output the texture, and replace it with the existing file.
+→ Perform the operation on the PSD file, output the texture, and replace it with the existing file*
 
 *Refer to "[How to create textures](#Points-to-note-about-production)" for operations on PSD files.
 
@@ -78,7 +78,7 @@ Set the item as a child of the head joint in Unity and adjust the position.
 
 **Step.2 Create a texture in Photoshop**
 
-When adding items, you must expand the UVs of the additional items and prepare textures to match. To change the color of an existing part, simply change the fill color of the corresponding layer in the PSD file. For textures, existing parts are textured using fill layers and masks so that the color can be changed for each part.
+When adding items, you must expand the UVs of the additional items and prepare textures to match. To change the color of an existing part, simply change the fill color of the corresponding layer in the PSD file. For textures, existing parts are textured using fill layers and masks so that the color can be changed for each part*
 
 *Refer to "[How to create textures](#Points-to-note-about-production)" for details.
 
@@ -88,7 +88,9 @@ The required operations vary depending on what you want to do.
 
 **Case 1. if the character model itself is changed using Maya**
 
-→ The character must be replaced in Unity. Case2: When you want to attach a single part to a character using the settings in Unity.
+→ The character must be replaced in Unity*
+
+*Adding parts also falls under this category if the character's joints have skin weights.
 
 **Case 2: When you want to attach a part to a character using the settings in Unity**
 

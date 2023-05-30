@@ -58,7 +58,7 @@ OASYXプロジェクトの上記の部分は、ゲームブロックチェーン
 ## アセットのダウンロード方法
 
 OASYX 3D Avatarのダウンロードは、公式サイトより行ってください。  
-**OASYX公式サイト**: https://x.oasys.games/
+**OASYX公式サイト**: https://x.oasys.games/3dmodel
 
 # アセットの基本情報
 
@@ -71,7 +71,7 @@ OASYX 3D Avatarのダウンロードは、公式サイトより行ってくだ�
 OASYX 3D Avatarのアセットは現在「Yatagarasu」のみ公開されています。
 
 OASYX 3D Avatarのダウンロードは、公式サイトより行ってください。  
-**OASYX公式サイト**: https://x.oasys.games/
+**OASYX公式サイト**: https://x.oasys.games/3dmodel
 
 ## 基本仕様
 

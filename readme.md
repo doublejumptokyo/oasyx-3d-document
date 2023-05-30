@@ -55,7 +55,7 @@ Alongside with Yu, GODTAIL who is a multi-talented Japanese digital artist beh
 ## How to download assets
 
 Please download OASYX 3D Avatar from the official website.  
-**OASYX official website**: https://x.oasys.games/
+**OASYX official website**:https://x.oasys.games/3dmodel
 
 # Basic information about assets
 
@@ -68,7 +68,7 @@ This section contains basic information on OASYX-Yatagarasu 3D Avatar released f
 Currently, only the "Yatagarasu" asset is available for OASYX 3D Avatar.
 
 Please download OASYX 3D Avatar from the official website.  
-**OASYX official website**: [https://x.oasys.games/](https://x.oasys.games/)
+**OASYX official website**:https://x.oasys.games/3dmodel
 
 ## Basic specifications
 

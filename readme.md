@@ -147,6 +147,8 @@ In many cases, it is possible to use models currently being distributed or VRM f
 
 However, depending on the platform, there is a possibility that distributed models cannot be used, or that they are automatically lightened internally and their appearance may not be guaranteed.
 
+Also, when uploading a VRM file to "Vroidhub", a validation error message may appear, but it is possible to upload the file as is.
+
 ## Next page
 
 [How to modify an asset](how-to-modify-an-asset.md)

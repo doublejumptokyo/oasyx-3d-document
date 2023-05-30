@@ -1,5 +1,7 @@
 # Welcome to OASYX 3D Avatar
 
+<img src="assets/image13.png">
+
 OASYX 3D Avatarのリポジトリへようこそ！  
 OASYX 3D Avatarの基本的な仕様や特徴、利用方法だけでなく、クリエイター向けにOASYX 3D Avatarの改変方法についてなど、様々な情報を提供します。  
 本ドキュメントは、主にOASYX 3D Avatarを活用したい企業やプロフェッショナルなクリエイターが対象です。  

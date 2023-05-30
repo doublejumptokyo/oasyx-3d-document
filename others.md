@@ -20,7 +20,7 @@
     - Please see our [Terms of Use](https://x.oasys.games/terms) for more information.
     
 - I have a feature request or have found a problem.
-    - If so, please [contact us](https://x.oasys.games/).
+    - If so, please [contact us](https://discord.com/invite/oasysgames).
 
 ## Terms of Use
 

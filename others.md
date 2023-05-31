@@ -17,15 +17,15 @@
     - There is no charge for the use of avatars.
     
 - Can I use it for commercial purposes?
-    - Please see our [Terms of Use](https://x.oasys.games/terms) for more information.
+    - Please see our [Terms](https://x.oasys.games/terms) for more information.
     
 - I have a feature request or have found a problem.
     - If so, please [contact us](https://discord.com/invite/oasysgames).
 
-## Terms of Use
+## Terms
 
-Please click here for the Terms of Use.  
-**OASYX Terms of Use**: [https://x.oasys.games/terms](https://x.oasys.games/terms)
+Please click here for the Terms.  
+**Terms**: [https://x.oasys.games/terms](https://x.oasys.games/terms)
 
 For secondary use guidelines, please click here.  
 **OASYX Secondary Use GUIDELINES**: [https://x.oasys.games/guidelines](https://x.oasys.games/guidelines)

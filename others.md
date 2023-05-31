@@ -27,6 +27,9 @@
 Please click here for the Terms of Use.  
 **OASYX Terms of Use**: [https://x.oasys.games/terms](https://x.oasys.games/terms)
 
+For secondary use guidelines, please click here.  
+**OASYX Secondary Use GUIDELINES**: [https://x.oasys.games/guidelines](https://x.oasys.games/guidelines)
+
 ## ****Update History****
 
 2023-05-30

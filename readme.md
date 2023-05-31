@@ -31,7 +31,7 @@ By opening up the OASYX 3D Avatar assets and documentation, we hope that not onl
         - [MToon Description and Usage](how-to-modify-an-asset.md#MToon-Description-and-Usage)
 4. [Others](others.md)
     1. [FAQ](others.md#FAQ)
-    2. [Terms of service](others.md#Terms-of-service)
+    2. [Terms](others.md#Terms)
     3. [Update history](others.md#Update-history)
 
 # Overview
